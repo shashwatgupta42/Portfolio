@@ -19,7 +19,8 @@ These project represent my learning journey and exemplify my improvement over ti
           - Breast Cancer Classification
           - Heart Disease Classification
           - Diabetes Classification (using imputation with Random Forest)
-  
+
+No machine learning framework or library has been used in any of these projects for the implementation of the key functionalities. The machine learning algorithms are written from scratch.
     
 
 
